@@ -1,0 +1,5 @@
+opencv-python
+torch
+folium
+pandas
+ultralytics
